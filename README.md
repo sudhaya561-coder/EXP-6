@@ -58,7 +58,7 @@ OBSERVATION TABLE:
     </tr>
     <tr>
         <td>Negative Displacement</td>
-        <td>1 V</td>
+        <td>7 V</td>
         <td>Vp = 5 mV</td>
         <td>1000</td>
         <td>1 / 1000 = 1 ms</td>
