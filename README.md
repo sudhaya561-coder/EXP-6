@@ -51,7 +51,7 @@ OBSERVATION TABLE:
     </tr>
     <tr>
         <td>Positive Displacement</td>
-        <td>1 V</td>
+        <td>7 V</td>
         <td>2.2 V (Io = 5 mA)</td>
         <td>1000</td>
         <td>1 / 1000 = 1 ms</td>
