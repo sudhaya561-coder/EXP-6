@@ -17,7 +17,56 @@ I. Connect the multimeter at the output of kit..
 5. Plot the graph between displacement and voltages on the graph paper.
 
 
-OBSERVATION TABLE
+OBSERVATION TABLE:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tabulation</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 2px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h3>Tabulation</h3>
+
+<table>
+    <tr>
+        <th>Displacement Type</th>
+        <th>Input Voltage (Vm)</th>
+        <th>Output Voltage</th>
+        <th>Frequency (Hz)</th>
+        <th>Time (T = 1/f)</th>
+    </tr>
+    <tr>
+        <td>Positive Displacement</td>
+        <td>1 V</td>
+        <td>2.2 V (Io = 5 mA)</td>
+        <td>1000</td>
+        <td>1 / 1000 = 1 ms</td>
+    </tr>
+    <tr>
+        <td>Negative Displacement</td>
+        <td>1 V</td>
+        <td>Vp = 5 mV</td>
+        <td>1000</td>
+        <td>1 / 1000 = 1 ms</td>
+    </tr>
+</table>
+
+</body>
+</html>
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
