@@ -22,7 +22,7 @@ OBSERVATION TABLE:
 | Displacement Type | Input Voltage (Vm) | Output Voltage | Frequency (Hz) | Time (T = 1/f) |
  |------------------|--------------------|----------------|----------------|---------------|
  | Positive Displacement | 7 V | 2.2 V (Io = 5 mA) | 1000 | 1/1000 = 1 ms |
- | Negative Displacement | 1 V | Vp = 7 mV | 1000 | 1/1000 = 1 ms | 
+ | Negative Displacement | 7 V | Vp = -5 mV | 1000 | 1/1000 = 1 ms | 
  
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
