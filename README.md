@@ -9,6 +9,7 @@ THEORY: - LVDT is basically a mutual inductance type transformer with variable c
 
 DIAGRAM:
 CIRCUIT DIAGRAM
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -18,57 +19,11 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE:
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Tabulation</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 2px solid black;
-            padding: 8px;
-            text-align: center;
-        }
-        th {
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-
-<h3>Tabulation</h3>
-
-<table>
-    <tr>
-        <th>Displacement Type</th>
-        <th>Input Voltage (Vm)</th>
-        <th>Output Voltage</th>
-        <th>Frequency (Hz)</th>
-        <th>Time (T = 1/f)</th>
-    </tr>
-    <tr>
-        <td>Positive Displacement</td>
-        <td>7 V</td>
-        <td>2.2 V (Io = 5 mA)</td>
-        <td>1000</td>
-        <td>1 / 1000 = 1 ms</td>
-    </tr>
-    <tr>
-        <td>Negative Displacement</td>
-        <td>7 V</td>
-        <td>Vp = 5 mV</td>
-        <td>1000</td>
-        <td>1 / 1000 = 1 ms</td>
-    </tr>
-</table>
-
-</body>
-</html>
-
+| Displacement Type | Input Voltage (Vm) | Output Voltage | Frequency (Hz) | Time (T = 1/f) |
+ |------------------|--------------------|----------------|----------------|---------------|
+ | Positive Displacement | 7 V | 2.2 V (Io = 5 mA) | 1000 | 1/1000 = 1 ms |
+ | Negative Displacement | 1 V | Vp = 7 mV | 1000 | 1/1000 = 1 ms | 
+ 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
